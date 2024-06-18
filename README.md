@@ -11,3 +11,4 @@ I am Parth.
 - 📫 How to reach me: parth.sharma.0498@gmail.com
 - 😄 Pronouns: he/him
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parths239)](https://github.com/anuraghazra/github-readme-stats)
