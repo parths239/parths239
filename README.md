@@ -10,5 +10,3 @@ I am Parth.
 - 🤔 I’m looking for help with finding a job and continue my career as a software engineer
 - 📫 How to reach me: parth.sharma.0498@gmail.com
 - 😄 Pronouns: he/him
-  
-     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parths239&layout=donut-vertical)](https://github.com/parths239)
